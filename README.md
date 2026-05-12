@@ -28,7 +28,7 @@ He also works with Network Function Virtualization (NFV), edge/cloud computing, 
   <li><a href="https://github.com/pauloeugenio/oai" target="_blank"><img src="https://img.shields.io/badge/OpenAirInterface-119EBD?style=plastic&logoColor=white&logo=wikiquote" alt="OpenAirInterface"></a></li>
   <li><a href="https://github.com/pauloeugenio/fiware-jupyter" target="_blank"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyer"></a></li>
   <li><a href="https://github.com/pauloeugenio/docker" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker"></a></li>
-  <li><a href="https://github.com/pauloeugenio/docker" target="_blank"><img src="https://camo.githubusercontent.com/e086ab682e8f21341a6bc56ed36577df44dc13ce318cd46573ba38f8846d9734/68747470733a2f2f7777772e6669776172652e6f72672f637573746f6d2f6272616e642d67756964652f696d672f6261646765732f636174616c6f6775652f30312f7376672f636f72652e737667" alt="Docker"></a></li>
+  <li><a href="https://github.com/pauloeugenio/sgiot" target="_blank"><img src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/svg/core.svg" alt="Fiware"></a></li>
 </ul>
 
 ---
