@@ -1,17 +1,4 @@
-- 👋 Hi, I’m @pauloeugenio
-- 👀 I’m interested in computer networks and embedded systems;
-- 🌱 I’m currently learning AI and Machine learning;
-- 💞️ I'm wanting to collaborate with the development of intelligent systems
-- 📫 How to reach me pauloeugenio@hotmail.com.br
-
-<!---
-pauloeugenio/pauloeugenio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-# :nerd_face: **Hi, I’m Paulo Eugenio da Costa Filho**
+# **Hi, I’m Paulo Eugenio da Costa Filho**
 
 <img src="https://raw.githubusercontent.com/PauloBigooD/Images/refs/heads/main/README_Computer.png" width="450px" align="right">
 
