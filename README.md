@@ -30,7 +30,7 @@ He also works with Network Function Virtualization (NFV), edge/cloud computing, 
   <li><a href="https://github.com/pauloeugenio/docker" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker"></a></li>
   <li><a href="https://github.com/pauloeugenio/sgiot" target="_blank"><img src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg" alt="Fiware"></a></li>
 </ul>
-
+https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg
 ---
 
 ### 👀 I’m interested in :
