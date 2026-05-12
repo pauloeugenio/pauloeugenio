@@ -26,7 +26,7 @@ He also works with Network Function Virtualization (NFV), edge/cloud computing, 
 
 <ul>
   <li><a href="https://github.com/pauloeugenio/oai" target="_blank"><img src="https://img.shields.io/badge/OpenAirInterface-119EBD?style=plastic&logoColor=white&logo=wikiquote" alt="OpenAirInterface"></a></li>
-  <li><a href="https://github.com/pauloeugenio/fiware-jupyter" target="_blank"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyer"></a></li>
+  <li><a href="https://github.com/pauloeugenio/fiware-jupyter" target="_blank"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg" alt="Jupyer"></a></li>
   <li><a href="https://github.com/pauloeugenio/docker" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker"></a></li>
 </ul>
 
