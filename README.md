@@ -16,11 +16,11 @@ He has experience in network infrastructure, system administration (SysAdmin), c
 
 
 
-- **M.Sc. in Electrical and Computer Engineering** – [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=university&logoColor=white)](https://www.ufrn.br)
-- **B.Sc. in Telecommunications Engineering** – [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=university&logoColor=white)](https://www.ufrn.br)
+- **M.Sc. in System and Computing** – [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=university&logoColor=white)](https://www.ufrn.br)
+- **B.Tech. Systems for the Internet** – [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=university&logoColor=white)](https://www.ufrn.br)
 - **B.Sc. in Science and Technology** – [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=university&logoColor=white)](https://www.ufrn.br)
 - **Computer Technician** – [![IFRN](https://img.shields.io/badge/-IFRN-3ADF00?style=plastic&logo=university&logoColor=white)](https://portal.ifrn.edu.br)
-- 📄 [Lattes CV (CNPq)](http://lattes.cnpq.br/2880435030241000)
+- 📄 [Lattes CV (CNPq)](http://lattes.cnpq.br/8212965823478919)
 
 ---
 
