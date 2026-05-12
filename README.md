@@ -1,6 +1,6 @@
 # **Hi, I’m Paulo Eugenio da Costa Filho**
 
-<img src="https://raw.githubusercontent.com/PauloBigooD/Images/refs/heads/main/README_Computer.png" width="450px" align="right">
+<img src="https://github.com/pauloeugenio/pauloeugenio/blob/master/feature-mockup.png" width="450px" align="right">
 
 ### 🎓 Educational Background
 
