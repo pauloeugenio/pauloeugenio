@@ -14,7 +14,7 @@ He also works with Network Function Virtualization (NFV), edge/cloud computing, 
 
 - **M.Sc. in System and Computing** – [![UFRN](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=university&logoColor=white)](https://www.ufrn.br)
 - **Spec. in Mobile Application Development**  – [![UniBF](https://img.shields.io/badge/-UFRN-blue?style=plastic&logo=university&logoColor=white)](https://www.unibf.com.br/)
-- **B.Tech. Systems for the Internet** – [![UFRN](https://img.s[![IFRN](https://img.shields.io/badge/-IFRN-3ADF00?style=plastic&logo=university&logoColor=white)](https://portal.ifrn.edu.br)
+- **B.Tech. Systems for the Internet** – [![IFRN](https://img.shields.io/badge/-IFRN-3ADF00?style=plastic&logo=university&logoColor=white)](https://portal.ifrn.edu.br)
 - **Computer Technician** – [![IFRN](https://img.shields.io/badge/-IFRN-3ADF00?style=plastic&logo=university&logoColor=white)](https://portal.ifrn.edu.br)
 - 📄 [Lattes CV (CNPq)](http://lattes.cnpq.br/8212965823478919)
 
