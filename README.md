@@ -40,7 +40,6 @@ He also works with Network Function Virtualization (NFV), edge/cloud computing, 
   <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326DE6?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"></a></li>
   <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Puppet-FFAD19?style=plastic&logo=puppet&logoColor=black" alt="Puppet"></a></li>
   <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Ansible-000000?style=plastic&logo=Ansible&logoColor=white" alt="Ansible"></a></li>
-  <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white" alt="Terraform"></a></li>
   <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/OpenStack-EA2046?style=plastic&logo=openstack&logoColor=white" alt="OpenStack"></a></li>
   <li><a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS"></a></li>
   <li><a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Microsoft Azure"></a></li>
