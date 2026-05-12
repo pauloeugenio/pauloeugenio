@@ -63,15 +63,15 @@ He also works with Network Function Virtualization (NFV), edge/cloud computing, 
 ---
 
 <p align="center">
-  <i>"Always learning, always building. Welcome to my lab!"</i> ⚡
+  <i>"Researching, building, and scaling the future of connectivity."</i> 🚀
 </p>
 
 <p align="center">
-  <a href="https://github.com/PauloBigooD">
-    <img src="https://komarev.com/ghpvc/?username=PauloBigooD&style=plastic" alt="Profile Views" />
+  <a href="https://github.com/pauloeugenio">
+    <img src="https://komarev.com/ghpvc/?username=pauloeugenio&style=plastic" alt="Profile Views" />
   </a>
 </p>
 
 <!-- Optional: GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloBigooD&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloeugenio&show_icons=true&theme=tokyonight)
 -->
