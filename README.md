@@ -55,11 +55,10 @@ He also works with Network Function Virtualization (NFV), edge/cloud computing, 
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/paulo-eug%C3%AAnio-3981ba37/)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@paulo.filho.071)
-[![GitHub BigooD](https://img.shields.io/github/followers/PauloBigooD?label=Follow&style=social)](https://github.com/PauloBigooD)
-[![Gmail](https://img.shields.io/badge/-paulo.eduardo.093@ufrn.edu.br-424242?style=plastic&logo=Gmail&logoColor=white)](mailto:paulo.eduardo.093@ufrn.edu.br)
-[![📞 +55 (84) 98808-0933](https://img.shields.io/badge/-%F0%9F%93%9E%20+55%20(84)%2098808%200933-424242?style=plastic&logoColor=white)]()
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp%20+55%20(84)%2098808%200933-3ADF00?style=plastic&logo=whatsapp&logoColor=white)]()
+[![GitHub BigooD](https://img.shields.io/github/followers/PauloBigooD?label=Follow&style=social)](https://github.com/pauloeugenio)
+[![Gmail](https://img.shields.io/badge/-paulo.eduardo.093@ufrn.edu.br-424242?style=plastic&logo=Gmail&logoColor=white)](mailto:pauloeugenio@hotmail.com.br)
+[![📞 +55 (84) 99634-0854](https://img.shields.io/badge/-%F0%9F%93%9E%20+55%20(84)%2098808%200933-424242?style=plastic&logoColor=white)]()
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp%20+55%20(84)%2099634%200854-3ADF00?style=plastic&logo=whatsapp&logoColor=white)]()
 
 ---
 
