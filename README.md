@@ -25,12 +25,9 @@ He also works with Network Function Virtualization (NFV), edge/cloud computing, 
 - Click on icon for visit the project!
 
 <ul>
-  <li><a href="https://github.com/PauloBigooD/OpenAirInterface" target="_blank"><img src="https://img.shields.io/badge/OpenAirInterface-119EBD?style=plastic&logoColor=white&logo=wikiquote" alt="OpenAirInterface"></a></li>
-  <li><a href="https://github.com/PauloBigooD/Open5GS" target="_blank"><img src="https://img.shields.io/badge/Open5GS-364FC7?style=plastic&logoColor=white&logo=osano" alt="Open5GS"></a></li>
-  <li><a href="https://github.com/PauloBigooD/Open5GS/tree/main/srsRAN" target="_blank"><img src="https://img.shields.io/badge/srsRAN-00B2E2?style=plastic&logoColor=white&logo=opencollective" alt="srsRAN"></a></li>
-  <li><a href="https://github.com/PauloBigooD/Zabbix" target="_blank"><img src="https://img.shields.io/badge/ZABBIX-FF0000?style=plastic&logo=zotero&logoColor=white" alt="Zabbix"></a></li>
-  <li><a href="https://github.com/PauloBigooD/Grafana" target="_blank"><img src="https://img.shields.io/badge/Grafana-FD7E36?style=plastic&logo=grafana&logoColor=white" alt="Grafana"></a></li>
-  <li><a href="https://github.com/PauloBigooD/Docker" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker"></a></li>
+  <li><a href="https://github.com/pauloeugenio/oai" target="_blank"><img src="https://img.shields.io/badge/OpenAirInterface-119EBD?style=plastic&logoColor=white&logo=wikiquote" alt="OpenAirInterface"></a></li>
+  <li><a href="https://github.com/pauloeugenio/oai" target="_blank"><img src="https://img.shields.io/badge/Open5GS-364FC7?style=plastic&logoColor=white&logo=osano" alt="Open5GS"></a></li>
+  <li><a href="https://github.com/pauloeugenio/docker" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker"></a></li>
 </ul>
 
 ---
