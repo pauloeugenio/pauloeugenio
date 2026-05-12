@@ -5,13 +5,7 @@
 ### 🎓 Educational Background
 
 <p align="justify">
-Paulo Eugênio da Costa Filho is a PhD candidate in Computer Science at the Universidade Federal do Rio Grande do Norte, with research focused on end-to-end (E2E) elasticity for network slicing in 5G and 6G networks, emphasizing multi-domain orchestration, SLA assurance, and adaptive mechanisms for next-generation environments. He holds a Master’s degree in Systems and Computing from UFRN, a specialization in Mobile Application Development from UNIBF, and degrees as a Technologist in Internet Systems and Computer Technician from the Instituto Federal do Rio Grande do Norte.
-
-He is a member of the Leading Advanced Technologies Center of Excellence, where he works directly on the deployment and structuring of the datacenter, computational infrastructure, and laboratory environment configuration. Between 2023 and 2024, he contributed to the development of a complete 5G infrastructure focused on experimentation, validation, and demonstration of innovative Open RAN and next-generation network use cases.
-
-He has experience in network infrastructure, system administration (SysAdmin), container-based environments, automation pipelines, CI/CD workflows, and cloud-native solutions. He also works with Network Function Virtualization (NFV), edge/cloud computing, observability, and distributed systems monitoring. He is involved in Open RAN implementations using platforms such as OpenAirInterface (OAI) and Open5GS.
-
-
+Paulo Eugênio da Costa Filho is a PhD candidate in Computer Science at the Universidade Federal do Rio Grande do Norte, with research focused on end-to-end (E2E) elasticity for network slicing in 5G and 6G networks, emphasizing multi-domain orchestration, SLA assurance, and adaptive mechanisms for next-generation environments. He holds a Master’s degree in Systems and Computing from UFRN, a specialization in Mobile Application Development from UNIBF, and degrees as a Technologist in Internet Systems and Computer Technician from the Instituto Federal do Rio Grande do Norte. He is a member of the Leading Advanced Technologies Center of Excellence, where he works directly on the deployment and structuring of the datacenter, computational infrastructure, and laboratory environment configuration. Between 2023 and 2024, he contributed to the development of a complete 5G infrastructure focused on experimentation, validation, and demonstration of innovative Open RAN and next-generation network use cases. He has experience in network infrastructure, system administration (SysAdmin), container-based environments, automation pipelines, CI/CD workflows, and cloud-native solutions. He also works with Network Function Virtualization (NFV), edge/cloud computing, observability, and distributed systems monitoring. He is involved in Open RAN implementations using platforms such as OpenAirInterface (OAI) and Open5GS.
 </p>
 
 
